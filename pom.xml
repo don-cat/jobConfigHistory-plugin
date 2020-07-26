@@ -7,6 +7,8 @@
         <version>1.554.1</version>
     </parent>
 
+
+
     <artifactId>jobConfigHistory</artifactId>
     <packaging>hpi</packaging>
     <version>2.10</version>
